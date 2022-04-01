@@ -83,4 +83,5 @@ padding:33px ;
 .trophy img{
     height:70vh;
     width:10 vw;
+    object-fit: cover;
 }
